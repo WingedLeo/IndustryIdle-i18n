@@ -69,7 +69,6 @@ export const IT = {
     TankFactory: "Tank Factory",
     CoalPowerPlant: "Coal Power Plant",
     PetrolPowerPlant: "Petrol Power Plant",
-    Copper: "Copper",
     Gas: "Natural Gas",
     GasPump: "Natural Gas Pump",
     GasPowerPlant: "Gas Power Plant",
